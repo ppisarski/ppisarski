@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+
+I solve problems by employing methods of Data Science like Machine Learning and Advanced Analytics. I also architect and build analytics products and AI engines with microservices. 
 
 <!--
 **ppisarski/ppisarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
