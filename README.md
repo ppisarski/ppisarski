@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawel Pisarski</h1>
-<h3 align="center">Data Scientist | Data and Analytics Solutions Architect | Physicist</h3>
+<h3 align="center">Full Stack Data Scientist | Data and Analytics Solutions Architect | Physicist</h3>
 
 I am passionate about solving business problems.
 I completed my PhD conducting research in the field of Computational/Theoretical Physics. 
