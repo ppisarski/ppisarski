@@ -1,10 +1,7 @@
 <h1 align="center">Pawel Pisarski</h1>
 <h3 align="center">Thought Leader | Full Stack Data Scientist | Data and Analytics Solutions Architect | Physicist</h3>
 
-I am passionate about solving business problems.
-I completed my PhD conducting research in the field of Computational/Theoretical Physics. 
-Now, I apply my skills to solve challenges by employing methods of Data Science like Machine Learning and Advanced Analytics.
-I also architect and build analytics products and AI engines with microservices.
+I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppisarski&label=Profile%20views&color=0e75b6&style=flat" alt="ppisarski" /> </p>)
 
