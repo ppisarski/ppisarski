@@ -49,6 +49,8 @@ I solve business problems by finding actionable insights and extracting knowledg
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://bambinos.github.io/bambi/" target="_blank" rel="noreferrer"> <img src="https://bambinos.github.io/bambi/main/_static/Bambi_logo.png" alt="bambi" width="40" height="40"/> </a> 
+<a href="https://www.pymc.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/logos/1-pymcdevs.png" alt="pymc3" width="40" height="40"/> </a> 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" height="40"/> </a> 
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress,format" alt="plotly" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/> </a> 
