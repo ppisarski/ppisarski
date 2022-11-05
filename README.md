@@ -60,7 +60,7 @@ I solve business problems by finding actionable insights and extracting knowledg
 <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/> </a>  -->
 <!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> -->
 <!-- <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="https://octave.org/img/octave-logo.svg" alt="octave" width="40" height="40"/> </a> -->
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a>
+<!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> -->
 </p>
 
 <h3 align="left">My Current Web Applications Stack:</h3>
