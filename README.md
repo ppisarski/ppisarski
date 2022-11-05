@@ -3,7 +3,7 @@
 
 I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
-![](https://github-readme-stats.vercel.app/api?username=derevirn&theme=blue&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ppisarski&theme=blue&hide_border=true&include_all_commits=true&count_private=true)
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppisarski&label=Profile%20views&color=0e75b6&style=flat" alt="ppisarski" /> </p>)
 
