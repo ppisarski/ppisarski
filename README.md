@@ -1,5 +1,5 @@
 <h1 align="center">Pawel Pisarski</h1>
-<h3 align="center">Thought Leader • Full Stack Data Scientist • Data and Analytics Solutions Architect • Physicist</h3>
+<h3 align="center">Thought Leader • Full Stack Data Scientist • Solutions Architect • Physicist</h3>
 
 I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
