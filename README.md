@@ -56,7 +56,7 @@ I solve business problems by finding actionable insights and extracting knowledg
 <!-- <a href="https://arviz-devs.github.io/arviz/" target="_blank" rel="noreferrer"> <img src="https://arviz-devs.github.io/arviz/_static/logo.png" alt="arviz" height="40"/> </a>  -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/> </a> 
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-lg.png?auto=compress,format" alt="plotly" height="40"/> </a> 
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://dash.gallery/Manager/portals_data/default/logo_8a3aad42-392d-11ed-becf-0242ac110014.png" alt="plotly" height="40"/> </a> 
 <!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> -->
 <!-- <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="https://octave.org/img/octave-logo.svg" alt="octave" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> -->
