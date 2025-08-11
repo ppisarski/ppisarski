@@ -3,37 +3,11 @@
 
 I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
-[//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
-[//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
+# [//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
+# [//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
 
-[//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
-[//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
-
-[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppisarski&label=Profile%20views&color=0e75b6&style=flat" alt="ppisarski" /> </p>)
-
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ppisarski" alt="ppisarski" /></a> </p>)
-
-[//]: # (<p align="left"> <a href="https://twitter.com/pawel_pisarski" target="blank"><img src="https://img.shields.io/twitter/follow/pawel_pisarski?logo=twitter&style=for-the-badge" alt="@pawel_pisarski" /></a> </p>)
-
-[//]: # (- 🔭 I’m currently working on [a]&#40;link&#41;)
-
-[//]: # (- 🌱 I’m currently learning **frameworks, courses**)
-
-[//]: # (- 👯 I’m looking to collaborate on [b]&#40;link&#41;)
-
-[//]: # (- 🤝 I’m looking for help with [c]&#40;link&#41;)
-
-[//]: # (- 👨‍💻 All of my private projects are available at [github]&#40;github&#41;)
-
-[//]: # (- 📝 I regularly write articles on [blog]&#40;blog&#41;)
-
-[//]: # (- 💬 Ask me about **Data Science**, **Strategy**, ****)
-
-[//]: # (- 📫 How to reach me **mail@pawelpisarski.com**)
-
-[//]: # (- 📄 Know about my experiences [LinkedIn]&#40;https://www.linkedin.com/in/pisarski/&#41;)
-
-[//]: # (- ⚡ Fun fact **I am funny**)
+# [//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
+# [//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
