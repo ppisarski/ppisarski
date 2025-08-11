@@ -3,12 +3,6 @@
 
 I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
-# [//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
-# [//]: # [![Pawel Pisarski's GitHub stats](https://github-readme-stats-red-ten-17.vercel.app/api?username=ppisarski&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
-
-# [//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=dark#gh-dark-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-dark-mode-only)
-# [//]: # [![Most used languages](https://github-readme-stats-red-ten-17.vercel.app/api/top-langs/?username=ppisarski&layout=compact&card_width=467&theme=default#gh-light-mode-only)](https://github.com/ppisarski/github-readme-stats#gh-light-mode-only)
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pisarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pppp" height="30" width="40" /></a>
