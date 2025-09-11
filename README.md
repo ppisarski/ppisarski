@@ -1,17 +1,11 @@
 <h1 align="center">Pawel Pisarski, PhD</h1>
-<h3 align="center">Thought Leader • Full Stack Data Scientist • Solutions Architect • Physicist</h3>
+<h3 align="center">Thought Leader • AI Solutions Leader • Full Stack Data Scientist • Physicist</h3>
 
 I solve business problems by finding actionable insights and extracting knowledge from data. I architect analytics products and AI engines with machine learning and microservices. I research and synergize ideas from fields of operations research, statistics, and applied machine learning to solve real-world problems. Currently, I lead the design, development, and rollout of advanced analytics solutions to accelerate the evaluation process of energy assets.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pisarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pppp" height="30" width="40" /></a>
-  
-[//]: # (<a href="https://twitter.com/pawel_pisarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pppp" height="30" width="40" /></a>)
-
-[//]: # (<a href="https://kaggle.com/ppisarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pppp" height="30" width="40" /></a>)
-
-[//]: # (<a href="https://medium.com/@pawel.pisarski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pppp" height="30" width="40" /></a>)
 </p>
 
 <h3 align="left">My Current Data Science Stack</h3>
@@ -25,15 +19,11 @@ I solve business problems by finding actionable insights and extracting knowledg
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<!-- <a href="https://bambinos.github.io/bambi/" target="_blank" rel="noreferrer"> <img src="https://bambinos.github.io/bambi/main/_static/Bambi_logo.png" alt="bambi" height="40"/> </a>  -->
 <a href="https://www.pymc.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" alt="pymc3" height="40"/> </a> 
 <!-- <a href="https://arviz-devs.github.io/arviz/" target="_blank" rel="noreferrer"> <img src="https://arviz-devs.github.io/arviz/_static/logo.png" alt="arviz" height="40"/> </a>  -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/> </a> 
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://dash.gallery/Manager/portals_data/default/logo_8a3aad42-392d-11ed-becf-0242ac110014.png" alt="plotly" height="40"/> </a> 
-<!-- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> -->
-<!-- <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="https://octave.org/img/octave-logo.svg" alt="octave" width="40" height="40"/> </a> -->
-<!-- <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> -->
 </p>
 
 <h3 align="left">My Current Web Applications Stack</h3>
